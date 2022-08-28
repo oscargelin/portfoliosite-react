@@ -1,10 +1,10 @@
 import React from "react";
-import Breakpoints from "./components/Breakpoints";
+import PortfolioSite from "./components/pages/pages/PortfolioSite";
 
 function App() {
   return (
     <div>
-      <Breakpoints />
+      <PortfolioSite />
     </div>
   );
 }
